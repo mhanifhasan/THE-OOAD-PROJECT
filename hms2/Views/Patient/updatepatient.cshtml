@@ -1,0 +1,111 @@
+﻿@model  hms2.Models.AddpatientModel
+@{
+    ViewBag.Title = "updatepatient";
+}
+<div class="row">
+
+    <img src="~/Content/d.jpg" width="300px" height="300px" style="margin-top:50px; margin-left:30px;" />
+
+    <div class="col-lg-7">
+        <div class="p-5">
+            <div class="text-center">
+                <h1 class="bg-primary" style="color:white; border-radius:10px;">Add New patient</h1>
+            </div>
+
+            @using (Html.BeginForm("updatepatient", "Patient", FormMethod.Post))
+            {
+
+
+                <div class="form-group row">
+                    <div class="col-sm-6 mb-3 mb-sm-0">
+
+                        @Html.HiddenFor(x => x.pID)
+                        @Html.TextBoxFor(x => x.firstName, new { @Class = "form-control form-control-user", placeholder = "FirstName" })
+                        @Html.ValidationMessageFor(x => x.firstName, null, new { @class = "ErrorMsg" })
+                    </div>
+                    <div class="col-sm-6">
+
+                        @Html.TextBoxFor(x => x.lastName, new { @Class = "form-control form-control-user", placeholder = "LastName" })
+                        @Html.ValidationMessageFor(x => x.lastName)
+                    </div>
+                </div>
+                <div class="form-group">
+
+                    @Html.TextBoxFor(x => x.Disease, new { @Class = "form-control form-control-user", placeholder = "Disease" })
+                    @Html.ValidationMessageFor(x => x.Disease)
+                </div>
+
+
+                <div class="form-group row">
+                    <div class="col-sm-6 mb-3 mb-sm-0">
+
+                        @Html.TextBoxFor(x => x.cellnum, new { @Class = "form-control form-control-user", placeholder = "Cellnum " })
+                        @Html.ValidationMessageFor(x => x.cellnum)
+                    </div>
+                    <div class="col-sm-6">
+
+                        @Html.TextBoxFor(x => x.cnic, new { @Class = "form-control form-control-user", placeholder = "CNIC" })
+                        @Html.ValidationMessageFor(x => x.cnic)
+                    </div>
+
+
+                    <div class="col-sm-6">
+
+
+                        <br />
+                        @Html.Label("Nationality ")  &nbsp;
+
+
+                        <div class="btn-group">
+
+                            @Html.DropDownListFor(x => x.nationality, new List<SelectListItem>
+                                                                               { new SelectListItem() { Text = "Pakistani" },
+                                                                                 new SelectListItem() { Text = "Other" }
+                                                                                })
+
+
+
+
+
+
+                        </div>
+
+                        <hr />
+                        Gender &nbsp;
+                        Male
+                        @Html.RadioButtonFor(x => x.gender, "Male")
+
+
+                        &nbsp;
+                        Female
+                        @Html.RadioButtonFor(x => x.gender, "Female")
+
+                    </div>
+
+                </div>
+
+                @helper button(string type, string value, string clas = "btn btn-info btn-user btn-block")
+                {
+                    <input type="@type" value="@value" class="@clas">
+
+                }
+
+                
+                @button("submit", "Update")
+                @button("reset", "Discard", "btn btn-info btn-user btn-block btn-danger")
+
+
+            }
+
+
+            <label>@ViewBag.Message</label>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+

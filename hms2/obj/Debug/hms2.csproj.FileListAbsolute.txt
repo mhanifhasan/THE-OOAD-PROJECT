@@ -1,0 +1,180 @@
+c:\users\farwa abbas\documents\visual studio 2015\Projects\hms2\hms2\bin\roslyn\csc.exe
+c:\users\farwa abbas\documents\visual studio 2015\Projects\hms2\hms2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\farwa abbas\documents\visual studio 2015\Projects\hms2\hms2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\farwa abbas\documents\visual studio 2015\Projects\hms2\hms2\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\farwa abbas\documents\visual studio 2015\Projects\hms2\hms2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\farwa abbas\documents\visual studio 2015\Projects\hms2\hms2\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\farwa abbas\documents\visual studio 2015\Projects\hms2\hms2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\farwa abbas\documents\visual studio 2015\Projects\hms2\hms2\bin\roslyn\System.Collections.Immutable.dll
+c:\users\farwa abbas\documents\visual studio 2015\Projects\hms2\hms2\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\farwa abbas\documents\visual studio 2015\Projects\hms2\hms2\bin\roslyn\vbc.exe
+c:\users\farwa abbas\documents\visual studio 2015\Projects\hms2\hms2\bin\roslyn\VBCSCompiler.exe
+c:\users\farwa abbas\documents\visual studio 2015\Projects\hms2\hms2\bin\roslyn\VBCSCompiler.exe.config
+c:\users\farwa abbas\documents\visual studio 2015\Projects\hms2\hms2\bin\hms2.dll.config
+c:\users\farwa abbas\documents\visual studio 2015\Projects\hms2\hms2\bin\hms2.dll
+c:\users\farwa abbas\documents\visual studio 2015\Projects\hms2\hms2\bin\hms2.pdb
+c:\users\farwa abbas\documents\visual studio 2015\Projects\hms2\hms2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\farwa abbas\documents\visual studio 2015\Projects\hms2\hms2\bin\Microsoft.Web.Infrastructure.dll
+c:\users\farwa abbas\documents\visual studio 2015\Projects\hms2\hms2\bin\System.Web.Helpers.dll
+c:\users\farwa abbas\documents\visual studio 2015\Projects\hms2\hms2\bin\System.Web.Mvc.dll
+c:\users\farwa abbas\documents\visual studio 2015\Projects\hms2\hms2\bin\System.Web.Razor.dll
+c:\users\farwa abbas\documents\visual studio 2015\Projects\hms2\hms2\bin\System.Web.Webpages.Deployment.dll
+c:\users\farwa abbas\documents\visual studio 2015\Projects\hms2\hms2\bin\System.Web.Webpages.dll
+c:\users\farwa abbas\documents\visual studio 2015\Projects\hms2\hms2\bin\System.Web.Webpages.Razor.dll
+c:\users\farwa abbas\documents\visual studio 2015\Projects\hms2\hms2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\farwa abbas\documents\visual studio 2015\Projects\hms2\hms2\bin\System.Web.Razor.xml
+c:\users\farwa abbas\documents\visual studio 2015\Projects\hms2\hms2\bin\System.Web.Webpages.xml
+c:\users\farwa abbas\documents\visual studio 2015\Projects\hms2\hms2\bin\System.Web.Webpages.Deployment.xml
+c:\users\farwa abbas\documents\visual studio 2015\Projects\hms2\hms2\bin\System.Web.Webpages.Razor.xml
+c:\users\farwa abbas\documents\visual studio 2015\Projects\hms2\hms2\bin\System.Web.Helpers.xml
+c:\users\farwa abbas\documents\visual studio 2015\Projects\hms2\hms2\bin\System.Web.Mvc.xml
+c:\users\farwa abbas\documents\visual studio 2015\Projects\hms2\hms2\obj\Debug\hms2.csprojResolveAssemblyReference.cache
+c:\users\farwa abbas\documents\visual studio 2015\Projects\hms2\hms2\obj\Debug\hms2.dll
+c:\users\farwa abbas\documents\visual studio 2015\Projects\hms2\hms2\obj\Debug\hms2.pdb
+C:\Users\Farwa Abbas\Desktop\hms2\hms2\obj\Debug\hms2.csprojResolveAssemblyReference.cache
+C:\Users\Farwa Abbas\Desktop\hms2\hms2\obj\Debug\hms2.dll
+C:\Users\Farwa Abbas\Desktop\hms2\hms2\obj\Debug\hms2.pdb
+C:\Users\Farwa Abbas\Desktop\hms2\hms2\bin\roslyn\csc.exe
+C:\Users\Farwa Abbas\Desktop\hms2\hms2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Farwa Abbas\Desktop\hms2\hms2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Farwa Abbas\Desktop\hms2\hms2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Farwa Abbas\Desktop\hms2\hms2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Farwa Abbas\Desktop\hms2\hms2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Farwa Abbas\Desktop\hms2\hms2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Farwa Abbas\Desktop\hms2\hms2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Farwa Abbas\Desktop\hms2\hms2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Farwa Abbas\Desktop\hms2\hms2\bin\roslyn\vbc.exe
+C:\Users\Farwa Abbas\Desktop\hms2\hms2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Farwa Abbas\Desktop\hms2\hms2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Farwa Abbas\Desktop\hms2\hms2\bin\hms2.dll.config
+C:\Users\Farwa Abbas\Desktop\hms2\hms2\bin\hms2.dll
+C:\Users\Farwa Abbas\Desktop\hms2\hms2\bin\hms2.pdb
+C:\Users\Farwa Abbas\Desktop\hms2\hms2\bin\EntityFramework.dll
+C:\Users\Farwa Abbas\Desktop\hms2\hms2\bin\EntityFramework.SqlServer.dll
+C:\Users\Farwa Abbas\Desktop\hms2\hms2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Farwa Abbas\Desktop\hms2\hms2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Farwa Abbas\Desktop\hms2\hms2\bin\System.Web.Helpers.dll
+C:\Users\Farwa Abbas\Desktop\hms2\hms2\bin\System.Web.Mvc.dll
+C:\Users\Farwa Abbas\Desktop\hms2\hms2\bin\System.Web.Razor.dll
+C:\Users\Farwa Abbas\Desktop\hms2\hms2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Farwa Abbas\Desktop\hms2\hms2\bin\System.Web.Webpages.dll
+C:\Users\Farwa Abbas\Desktop\hms2\hms2\bin\System.Web.Webpages.Razor.dll
+C:\Users\Farwa Abbas\Desktop\hms2\hms2\bin\EntityFramework.xml
+C:\Users\Farwa Abbas\Desktop\hms2\hms2\bin\EntityFramework.SqlServer.xml
+C:\Users\Farwa Abbas\Desktop\hms2\hms2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Farwa Abbas\Desktop\hms2\hms2\bin\System.Web.Razor.xml
+C:\Users\Farwa Abbas\Desktop\hms2\hms2\bin\System.Web.Webpages.xml
+C:\Users\Farwa Abbas\Desktop\hms2\hms2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Farwa Abbas\Desktop\hms2\hms2\bin\System.Web.Webpages.Razor.xml
+C:\Users\Farwa Abbas\Desktop\hms2\hms2\bin\System.Web.Helpers.xml
+C:\Users\Farwa Abbas\Desktop\hms2\hms2\bin\System.Web.Mvc.xml
+C:\Users\Farwa Abbas\Desktop\NEWhms2\hms2\bin\roslyn\csc.exe
+C:\Users\Farwa Abbas\Desktop\NEWhms2\hms2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Farwa Abbas\Desktop\NEWhms2\hms2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Farwa Abbas\Desktop\NEWhms2\hms2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Farwa Abbas\Desktop\NEWhms2\hms2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Farwa Abbas\Desktop\NEWhms2\hms2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Farwa Abbas\Desktop\NEWhms2\hms2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Farwa Abbas\Desktop\NEWhms2\hms2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Farwa Abbas\Desktop\NEWhms2\hms2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Farwa Abbas\Desktop\NEWhms2\hms2\bin\roslyn\vbc.exe
+C:\Users\Farwa Abbas\Desktop\NEWhms2\hms2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Farwa Abbas\Desktop\NEWhms2\hms2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Farwa Abbas\Desktop\NEWhms2\hms2\bin\hms2.dll.config
+C:\Users\Farwa Abbas\Desktop\NEWhms2\hms2\bin\hms2.dll
+C:\Users\Farwa Abbas\Desktop\NEWhms2\hms2\bin\hms2.pdb
+C:\Users\Farwa Abbas\Desktop\NEWhms2\hms2\bin\EntityFramework.dll
+C:\Users\Farwa Abbas\Desktop\NEWhms2\hms2\bin\EntityFramework.SqlServer.dll
+C:\Users\Farwa Abbas\Desktop\NEWhms2\hms2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Farwa Abbas\Desktop\NEWhms2\hms2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Farwa Abbas\Desktop\NEWhms2\hms2\bin\System.Web.Helpers.dll
+C:\Users\Farwa Abbas\Desktop\NEWhms2\hms2\bin\System.Web.Mvc.dll
+C:\Users\Farwa Abbas\Desktop\NEWhms2\hms2\bin\System.Web.Razor.dll
+C:\Users\Farwa Abbas\Desktop\NEWhms2\hms2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Farwa Abbas\Desktop\NEWhms2\hms2\bin\System.Web.Webpages.dll
+C:\Users\Farwa Abbas\Desktop\NEWhms2\hms2\bin\System.Web.Webpages.Razor.dll
+C:\Users\Farwa Abbas\Desktop\NEWhms2\hms2\bin\EntityFramework.xml
+C:\Users\Farwa Abbas\Desktop\NEWhms2\hms2\bin\EntityFramework.SqlServer.xml
+C:\Users\Farwa Abbas\Desktop\NEWhms2\hms2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Farwa Abbas\Desktop\NEWhms2\hms2\bin\System.Web.Razor.xml
+C:\Users\Farwa Abbas\Desktop\NEWhms2\hms2\bin\System.Web.Webpages.xml
+C:\Users\Farwa Abbas\Desktop\NEWhms2\hms2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Farwa Abbas\Desktop\NEWhms2\hms2\bin\System.Web.Webpages.Razor.xml
+C:\Users\Farwa Abbas\Desktop\NEWhms2\hms2\bin\System.Web.Helpers.xml
+C:\Users\Farwa Abbas\Desktop\NEWhms2\hms2\bin\System.Web.Mvc.xml
+C:\Users\Farwa Abbas\Desktop\NEWhms2\hms2\obj\Debug\hms2.csprojResolveAssemblyReference.cache
+C:\Users\Farwa Abbas\Desktop\NEWhms2\hms2\obj\Debug\hms2.dll
+C:\Users\Farwa Abbas\Desktop\NEWhms2\hms2\obj\Debug\hms2.pdb
+C:\clinic\hms2\bin\roslyn\csc.exe
+C:\clinic\hms2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\clinic\hms2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\clinic\hms2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\clinic\hms2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\clinic\hms2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\clinic\hms2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\clinic\hms2\bin\roslyn\System.Collections.Immutable.dll
+C:\clinic\hms2\bin\roslyn\System.Reflection.Metadata.dll
+C:\clinic\hms2\bin\roslyn\vbc.exe
+C:\clinic\hms2\bin\roslyn\VBCSCompiler.exe
+C:\clinic\hms2\bin\roslyn\VBCSCompiler.exe.config
+C:\clinic\hms2\bin\hms2.dll.config
+C:\clinic\hms2\bin\hms2.dll
+C:\clinic\hms2\bin\hms2.pdb
+C:\clinic\hms2\bin\EntityFramework.dll
+C:\clinic\hms2\bin\EntityFramework.SqlServer.dll
+C:\clinic\hms2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\clinic\hms2\bin\Microsoft.Web.Infrastructure.dll
+C:\clinic\hms2\bin\System.Web.Helpers.dll
+C:\clinic\hms2\bin\System.Web.Mvc.dll
+C:\clinic\hms2\bin\System.Web.Razor.dll
+C:\clinic\hms2\bin\System.Web.Webpages.Deployment.dll
+C:\clinic\hms2\bin\System.Web.Webpages.dll
+C:\clinic\hms2\bin\System.Web.Webpages.Razor.dll
+C:\clinic\hms2\bin\EntityFramework.xml
+C:\clinic\hms2\bin\EntityFramework.SqlServer.xml
+C:\clinic\hms2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\clinic\hms2\bin\System.Web.Razor.xml
+C:\clinic\hms2\bin\System.Web.Webpages.xml
+C:\clinic\hms2\bin\System.Web.Webpages.Deployment.xml
+C:\clinic\hms2\bin\System.Web.Webpages.Razor.xml
+C:\clinic\hms2\bin\System.Web.Helpers.xml
+C:\clinic\hms2\bin\System.Web.Mvc.xml
+C:\clinic\hms2\obj\Debug\hms2.csprojResolveAssemblyReference.cache
+C:\clinic\hms2\obj\Debug\hms2.dll
+C:\clinic\hms2\obj\Debug\hms2.pdb
+D:\Hanif\PAF-KIET\OOAD\hospital-management-system-with-mvc-master\hospital-management-system-with-mvc-master\hms2\bin\roslyn\csc.exe
+D:\Hanif\PAF-KIET\OOAD\hospital-management-system-with-mvc-master\hospital-management-system-with-mvc-master\hms2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Hanif\PAF-KIET\OOAD\hospital-management-system-with-mvc-master\hospital-management-system-with-mvc-master\hms2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Hanif\PAF-KIET\OOAD\hospital-management-system-with-mvc-master\hospital-management-system-with-mvc-master\hms2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Hanif\PAF-KIET\OOAD\hospital-management-system-with-mvc-master\hospital-management-system-with-mvc-master\hms2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Hanif\PAF-KIET\OOAD\hospital-management-system-with-mvc-master\hospital-management-system-with-mvc-master\hms2\bin\roslyn\System.Collections.Immutable.dll
+D:\Hanif\PAF-KIET\OOAD\hospital-management-system-with-mvc-master\hospital-management-system-with-mvc-master\hms2\bin\roslyn\System.Reflection.Metadata.dll
+D:\Hanif\PAF-KIET\OOAD\hospital-management-system-with-mvc-master\hospital-management-system-with-mvc-master\hms2\bin\roslyn\vbc.exe
+D:\Hanif\PAF-KIET\OOAD\hospital-management-system-with-mvc-master\hospital-management-system-with-mvc-master\hms2\bin\roslyn\VBCSCompiler.exe
+D:\Hanif\PAF-KIET\OOAD\hospital-management-system-with-mvc-master\hospital-management-system-with-mvc-master\hms2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Hanif\PAF-KIET\OOAD\hospital-management-system-with-mvc-master\hospital-management-system-with-mvc-master\hms2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Hanif\PAF-KIET\OOAD\hospital-management-system-with-mvc-master\hospital-management-system-with-mvc-master\hms2\bin\roslyn\VBCSCompiler.exe.config
+D:\Hanif\PAF-KIET\OOAD\hospital-management-system-with-mvc-master\hospital-management-system-with-mvc-master\hms2\bin\hms2.dll.config
+D:\Hanif\PAF-KIET\OOAD\hospital-management-system-with-mvc-master\hospital-management-system-with-mvc-master\hms2\bin\hms2.dll
+D:\Hanif\PAF-KIET\OOAD\hospital-management-system-with-mvc-master\hospital-management-system-with-mvc-master\hms2\bin\hms2.pdb
+D:\Hanif\PAF-KIET\OOAD\hospital-management-system-with-mvc-master\hospital-management-system-with-mvc-master\hms2\bin\EntityFramework.dll
+D:\Hanif\PAF-KIET\OOAD\hospital-management-system-with-mvc-master\hospital-management-system-with-mvc-master\hms2\bin\EntityFramework.SqlServer.dll
+D:\Hanif\PAF-KIET\OOAD\hospital-management-system-with-mvc-master\hospital-management-system-with-mvc-master\hms2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Hanif\PAF-KIET\OOAD\hospital-management-system-with-mvc-master\hospital-management-system-with-mvc-master\hms2\bin\System.Web.Helpers.dll
+D:\Hanif\PAF-KIET\OOAD\hospital-management-system-with-mvc-master\hospital-management-system-with-mvc-master\hms2\bin\System.Web.Mvc.dll
+D:\Hanif\PAF-KIET\OOAD\hospital-management-system-with-mvc-master\hospital-management-system-with-mvc-master\hms2\bin\System.Web.Razor.dll
+D:\Hanif\PAF-KIET\OOAD\hospital-management-system-with-mvc-master\hospital-management-system-with-mvc-master\hms2\bin\System.Web.Webpages.Deployment.dll
+D:\Hanif\PAF-KIET\OOAD\hospital-management-system-with-mvc-master\hospital-management-system-with-mvc-master\hms2\bin\System.Web.Webpages.dll
+D:\Hanif\PAF-KIET\OOAD\hospital-management-system-with-mvc-master\hospital-management-system-with-mvc-master\hms2\bin\System.Web.Webpages.Razor.dll
+D:\Hanif\PAF-KIET\OOAD\hospital-management-system-with-mvc-master\hospital-management-system-with-mvc-master\hms2\bin\EntityFramework.xml
+D:\Hanif\PAF-KIET\OOAD\hospital-management-system-with-mvc-master\hospital-management-system-with-mvc-master\hms2\bin\EntityFramework.SqlServer.xml
+D:\Hanif\PAF-KIET\OOAD\hospital-management-system-with-mvc-master\hospital-management-system-with-mvc-master\hms2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Hanif\PAF-KIET\OOAD\hospital-management-system-with-mvc-master\hospital-management-system-with-mvc-master\hms2\bin\System.Web.Razor.xml
+D:\Hanif\PAF-KIET\OOAD\hospital-management-system-with-mvc-master\hospital-management-system-with-mvc-master\hms2\bin\System.Web.Webpages.xml
+D:\Hanif\PAF-KIET\OOAD\hospital-management-system-with-mvc-master\hospital-management-system-with-mvc-master\hms2\bin\System.Web.Webpages.Deployment.xml
+D:\Hanif\PAF-KIET\OOAD\hospital-management-system-with-mvc-master\hospital-management-system-with-mvc-master\hms2\bin\System.Web.Webpages.Razor.xml
+D:\Hanif\PAF-KIET\OOAD\hospital-management-system-with-mvc-master\hospital-management-system-with-mvc-master\hms2\bin\System.Web.Helpers.xml
+D:\Hanif\PAF-KIET\OOAD\hospital-management-system-with-mvc-master\hospital-management-system-with-mvc-master\hms2\bin\System.Web.Mvc.xml
+D:\Hanif\PAF-KIET\OOAD\hospital-management-system-with-mvc-master\hospital-management-system-with-mvc-master\hms2\obj\Debug\hms2.csprojResolveAssemblyReference.cache
+D:\Hanif\PAF-KIET\OOAD\hospital-management-system-with-mvc-master\hospital-management-system-with-mvc-master\hms2\obj\Debug\hms2.dll
+D:\Hanif\PAF-KIET\OOAD\hospital-management-system-with-mvc-master\hospital-management-system-with-mvc-master\hms2\obj\Debug\hms2.pdb

@@ -1,0 +1,51 @@
+﻿@model IEnumerable<Cab_management_System.Models.departments>
+
+@{
+    ViewBag.Title = "ShowAll";
+}
+
+<h2>ShowAll</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Add_department_name", new { })
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.department_id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.department_name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.admin_id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.admin_action_time)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.department_id)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.department_name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.admin_id)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.admin_action_time)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Update", new { department_id = item.department_id }) |
+            @Html.ActionLink("Details", "Details", new { department_id = item.department_id }) |
+            @Html.ActionLink("Delete", "Delete", new { department_id = item.department_id })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,63 @@
+﻿@model IEnumerable<Cab_management_System.Models.expenses>
+
+@{
+    ViewBag.Title = "ShowAll";
+}
+
+<h2>ShowAll</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Add_expenses", new { })
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.expense_id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.expence_discription)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.cost)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.expence_state)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.admin_id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.admin_action_time)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.expense_id)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.expence_discription)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.cost)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.expence_state)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.admin_id)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.admin_action_time)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Update", new { expense_id = item.expense_id }) |
+            @Html.ActionLink("Details", "Details", new { expense_id = item.expense_id }) |
+            @Html.ActionLink("Delete", "Delete", new { expense_id = item.expense_id })
+        </td>
+    </tr>
+}
+
+</table>

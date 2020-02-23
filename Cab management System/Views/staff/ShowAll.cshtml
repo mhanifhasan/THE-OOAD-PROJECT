@@ -1,0 +1,81 @@
+﻿@model IEnumerable<Cab_management_System.Models.staff>
+
+@{
+    ViewBag.Title = "ShowAll";
+}
+
+<h2>ShowAll</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Add_staff" , new {})
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.staff_id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.city)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.job_id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.department_id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.username)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.pword)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.admin_id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.admin_action_time)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.staff_id)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.city)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.job_id)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.department_id)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.username)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.pword)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.admin_id)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.admin_action_time)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Update", new { staff_id = item.staff_id }) |
+            @Html.ActionLink("Details", "Details", new { staff_id = item.staff_id }) |
+            @Html.ActionLink("Delete", "Delete", new { staff_id = item.staff_id })
+        </td>
+    </tr>
+}
+
+</table>

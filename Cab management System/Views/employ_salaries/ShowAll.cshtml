@@ -1,0 +1,63 @@
+﻿@model IEnumerable<Cab_management_System.Models.employ_salaries>
+
+@{
+    ViewBag.Title = "ShowAll";
+}
+
+<h2>ShowAll</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Add_employ_salaries",new {})
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.employ_id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.amount)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.date_of_paying)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.month_pf_salary)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.admin_id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.admin_action_time)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.employ_id)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.amount)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.date_of_paying)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.month_pf_salary)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.admin_id)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.admin_action_time)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Update", new { employ_id = item.employ_id }) |
+            @Html.ActionLink("Details", "Details", new { employ_id = item.employ_id }) |
+            @Html.ActionLink("Delete", "Delete", new { employ_id = item.employ_id })
+        </td>
+    </tr>
+}
+
+</table>

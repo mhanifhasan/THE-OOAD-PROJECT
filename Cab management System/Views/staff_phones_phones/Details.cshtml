@@ -1,0 +1,50 @@
+﻿@model Cab_management_System.Models.staff_phones
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>staff_phones</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.staff_id)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.staff_id)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.phone_no)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.phone_no)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.admin_id)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.admin_id)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.admin_action_time)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.admin_action_time)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Update", new { staff_id = Model.staff_id }) |
+    @Html.ActionLink("Back to List", "ShowAll", new { })
+</p>

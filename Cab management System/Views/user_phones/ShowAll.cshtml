@@ -1,0 +1,51 @@
+﻿@model IEnumerable<Cab_management_System.Models.user_phones>
+
+@{
+    ViewBag.Title = "ShowAll";
+}
+
+<h2>ShowAll</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Add_user_phones", new { })
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.c_user_id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.phone_no)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.admin_id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.admin_action_time)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.c_user_id)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.phone_no)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.admin_id)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.admin_action_time)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Update", new { c_user_id = item.c_user_id }) |
+            @Html.ActionLink("Details", "Details", new { c_user_id = item.c_user_id }) |
+            @Html.ActionLink("Delete", "Delete", new { c_user_id = item.c_user_id })
+        </td>
+    </tr>
+}
+
+</table>

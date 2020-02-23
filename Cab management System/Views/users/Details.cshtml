@@ -1,0 +1,90 @@
+﻿@model Cab_management_System.Models.users
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>users</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.c_user_id)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.c_user_id)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.age)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.age)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.city)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.city)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.father_name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.father_name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.username)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.username)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.pword)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.pword)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.admin_id)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.admin_id)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.admin_action_time)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.admin_action_time)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Update", new { c_user_id = Model.c_user_id }) |
+    @Html.ActionLink("Back to List", "ShowAll", new { })
+</p>

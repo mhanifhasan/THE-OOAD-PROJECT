@@ -1,0 +1,105 @@
+﻿@model IEnumerable<Cab_management_System.Models.drivers>
+
+@{
+    ViewBag.Title = "ShowAll";
+}
+
+<h2>ShowAll</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Add_drivers", new { })
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.driver_id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.age)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.cnic)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.car_name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.car_model)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.car_brand)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.car_number_plate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.username)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.pword)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.online_stat)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.admin_id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.admin_action_time)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.driver_id)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.age)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.cnic)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.car_name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.car_model)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.car_brand)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.car_number_plate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.username)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.pword)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.online_stat)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.admin_id)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.admin_action_time)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Update", new { driver_id = item.driver_id }) |
+            @Html.ActionLink("Details", "Details", new { driver_id = item.driver_id }) |
+            @Html.ActionLink("Delete", "Delete", new { driver_id = item.driver_id })
+        </td>
+    </tr>
+}
+
+</table>

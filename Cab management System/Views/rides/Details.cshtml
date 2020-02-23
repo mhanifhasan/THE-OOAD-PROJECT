@@ -1,0 +1,90 @@
+﻿@model Cab_management_System.Models.rides
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>rides</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.ride_id)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ride_id)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.driver_id)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.driver_id)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.c_user_id)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.c_user_id)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.starting_location)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.starting_location)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ending_location)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ending_location)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.price)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.price)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.time_of_ride)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.time_of_ride)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.admin_id)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.admin_id)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.admin_action_time)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.admin_action_time)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Update", new { ride_id = Model.ride_id }) |
+    @Html.ActionLink("Back to List", "ShowAll", new { })
+</p>
